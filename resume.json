@@ -1,0 +1,105 @@
+{
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"hidden": true
+	},
+	"profile": {
+		"name": "黄铭召",
+		"email": "786810038@qq.com",
+		"mobile": "15360780664",
+		"github": "",
+		"zhihu": "",
+		"workExpYear": "一年半",
+		"workPlace": "广东广州",
+		"positionTitle": "后端工程师"
+	},
+	"educationList": [{
+		"edu_time": ["2016.09.01", "2020.06.30"],
+		"school": "深圳大学",
+		"major": "计算机科学与技术",
+		"academic_degree": "本科",
+		"dataIndex": 0
+	}],
+	"awardList": [{
+		"award_info": "英语 CET6",
+		"award_time": "2018",
+		"dataIndex": 0
+	}, {
+		"award_info": "ManageOne 8.0.3 使命必达奖",
+		"award_time": "2021.02",
+		"dataIndex": 1
+	}, {
+		"award_info": "ManegeOne 优秀个人奖",
+		"award_time": "2021.10",
+		"dataIndex": 2
+	}],
+	"workExpList": [{
+		"company_name": "华为云",
+		"department_name": "ManageOne服务域项目群",
+		"work_time": ["2020.10", "2022.02"],
+		"work_desc": "1. 混合云云管平台 ManageOne运营指挥中心开发团队核心成员，负责可视化数据加工能力的开发。\n2. ManageOne开源团队成员，负责维护组内开源软件生命周期、合法合规以及选型使用问题。",
+		"dataIndex": 0
+	}, {
+		"work_time": ["2020.05", "2020.10"],
+		"company_name": "递四方信息科技",
+		"department_name": "国家C站",
+		"work_desc": "1. 负责2C下单系统后台开发，支持国家有美国、西班牙、香港、澳大利亚。\n2. 负责国内客服系统开发与维护。"
+	}],
+	"skillList": [{
+		"skill_name": "Java",
+		"skill_desc": "熟悉Java面向对象编程，熟悉面向对象特性。\n熟悉Spring框架的使用和原理，有阅读源码经验。",
+		"skill_level": 90,
+		"dataIndex": 0
+	}, {
+		"skill_name": "Mysql Clickhouse",
+		"skill_level": 80,
+		"dataIndex": 1,
+		"skill_desc": "熟悉Mysql底层原理以及基本调优\n熟悉当前流行的适用于联机分析的列式数据库ClickHouse。"
+	}, {
+		"skill_name": "分布式组件",
+		"skill_level": 70,
+		"skill_desc": "熟悉Kafka、Redis、ES等开源分布式组件的使用和原理，并有实际基于这些组件的开发经验。",
+		"dataIndex": 2
+	}, {
+		"skill_name": "数据可视化",
+		"skill_desc": "有丰富的数据可视化加工任务开发经验和可视化大屏开发经验。",
+		"skill_level": 70,
+		"dataIndex": 3
+	}],
+	"projectList": [{
+		"project_name": "ManageOneOCC",
+		"project_role": "可视化数据加工核心开发成员",
+		"project_time": "2020.10 - 2022.02",
+		"project_desc": "ManageOneOCC 是华为混合云板块中针对政企客户所设计的集可视化数据采集、大屏展示、监控预警的一套系统。提供一站式的数据化运维、运营决策和管理功能，提升管理效率。",
+		"project_content": "\n1. 数据源接入框架的开发，目前支持4大类、15小类数据源接入系统 \n2. 可视化API算子，计算列算子开发，目前API算子在已上线的6个现网政企客户中，使用率超过60% \n3. 管理组内开源软件生命周期，代码合法合规，漏洞处理，新软件选型等事务",
+		"dataIndex": 3
+	}, {
+		"project_name": "管控析基础平台部-国密项目组",
+		"project_role": "国密证书板块开发成员",
+		"project_time": "2021.07 - 2021.11",
+		"project_content": "负责国密算法标准下证书的生成和替换。",
+		"project_desc": "应政企客户诉求，华为基础平台需要从上至下支持国家密码管理局所认定和公布的密码算法标准。"
+	}, {
+		"project_name": "国家C站",
+		"project_role": "后端开发成员",
+		"project_time": "2020.05 - 2020.10",
+		"project_content": "\n1.下单系统的需求开发与维护。\n2. 客服系统的开发与维护。",
+		"project_desc": "国家C站是一套用于为外国用户下单转运货物的系统，针对不同国家和地区的差异会相应推出不同的优惠活动。"
+	}],
+	"workList": [],
+	"aboutme": {
+		"aboutme_desc": "😈 能力项：沟通协调能力、对需求影响和实现的分析能力。\n   后端工程师，主要开发语言为Java，次要开发语言为Python，一年半数据可视化分析平台开发经验，负责华为混合云云管平台ManageOne数据可视化分析板块建设。对数据仓库、可视化数据采集加工有较深的理解。\n   主要负责数据源接入部分、可视化算子功能开发、项目内开源软件生命周期管理，目前是数据源接入部分的主要负责人，对不同类型的数据源均有不同程度的了解。\n  \n  \n    "
+	},
+	"theme": {
+		"color": "#2f5785",
+		"tagColor": "rgba(113, 139, 82, 1)"
+	}
+}
